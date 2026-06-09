@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Add Sitemap after the final domain is connected, for example:
+# Sitemap: https://example.com/sitemap.xml

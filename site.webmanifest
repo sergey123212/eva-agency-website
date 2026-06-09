@@ -1,0 +1,23 @@
+{
+  "name": "EVA Agency",
+  "short_name": "EVA",
+  "description": "AI-powered social media and content growth agency.",
+  "start_url": ".",
+  "display": "minimal-ui",
+  "background_color": "#000000",
+  "theme_color": "#050712",
+  "icons": [
+    {
+      "src": "assets/meta/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/meta/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+
+.env
+.env.*
+
+server.log
+server.err.log
+preview-*.png
+
+Thumbs.db
+.DS_Store
